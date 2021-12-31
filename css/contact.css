@@ -1,0 +1,54 @@
+ul { 
+    font-family: Arial, Helvetica, sans-serif; 
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+li { 
+    float: left;
+}
+
+li a {
+    display: flex;
+    color: white;
+    align-items: center;
+    text-decoration: none;
+    background: lightslategray;
+    padding: 20px 199px;
+    margin: 0px;
+}
+
+li a:hover{
+    color:darkred;
+}
+
+body { 
+    background-color: lavender;
+    text-align: center;
+}
+
+fieldset {
+    width: 1000px;
+    text-align: center;
+    margin: auto;
+    border-style: none;
+}
+
+.personal { 
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.contact_me { 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+
+.personal-info {
+    width: 1000px;
+    text-align: center;
+    border-style: solid;
+    margin: auto;
+    border-color: black;
+}

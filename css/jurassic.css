@@ -1,0 +1,52 @@
+ul { 
+    font-family: Arial, Helvetica, sans-serif; 
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+li { 
+    float: left;
+}
+
+li a {
+    display: flex;
+    color: white;
+    align-items: center;
+    text-decoration: none;
+    background: lightslategray;
+    padding: 20px 199px;
+    margin: 0px;
+}
+
+li a:hover{
+    color:darkred;
+}
+
+body { 
+    background-color: lavender;
+    text-align: center;
+}
+
+.je-intro {
+    width: 100px;
+    text-align: center;
+    margin: auto;
+    border-style: none;
+}
+
+.je-info {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+}
+
+.je-legend {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+.je-form {
+    width: 800px;
+    text-align: center;
+    margin: auto;
+}
